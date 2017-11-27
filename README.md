@@ -6,7 +6,9 @@ Test Class : *MongoDbCrudTest.java*
 
 #### User ####
 
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
+Attributes  | Type
+------------| -------------
+id          | Integer
+name        | String
+role        | String
+isEmployee  | Boolean
